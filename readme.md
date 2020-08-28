@@ -1,8 +1,7 @@
 # CRUD_crear_proyectos
 
 ### Descripción
-crear proyectos,editarlos, eliminarlos y actualizarlos. 
-tambien esta la funcion de poder iniciar sesion.
+crear proyectos,editarlos, eliminarlos y actualizarlos. Esta la función de poder iniciar sesión y poder agregar imágenes a los proyectos, se agregaron sistemas de roles para crear los proyectos y poder restablecer un proyecto ya borrado, también la seccionar los proyectos por categorías. Aprende Laravel intermedio.
 
 ## Imagenes
 
@@ -35,6 +34,12 @@ tambien esta la funcion de poder iniciar sesion.
 -----
 
 ![127 0 0 1_8000_portafolio_proyecto_3_editar](https://user-images.githubusercontent.com/54915231/91512491-bf9ad800-e8a7-11ea-9cf3-156487fcc700.png)
+
+### Papelera
+-----
+
+![papelera](https://user-images.githubusercontent.com/54915231/91512919-b52d0e00-e8a8-11ea-9c10-3f01280e27c2.PNG)
+
 
 ### Contacto
 ----
