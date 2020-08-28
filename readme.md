@@ -19,17 +19,22 @@ tambien esta la funcion de poder iniciar sesion.
 ### Portafolio
 ----
 
-![portafolio](https://user-images.githubusercontent.com/54915231/85790872-966a9980-b6f6-11ea-867d-df3018041957.png)
+![127 0 0 1_8000_portafolio](https://user-images.githubusercontent.com/54915231/91512362-7a76a600-e8a7-11ea-8376-804c26e1d08f.png)
+
+### Ver proyecto
+----
+
+![127 0 0 1_8000_portafolio_proyecto_3](https://user-images.githubusercontent.com/54915231/91512446-a2660980-e8a7-11ea-8872-e04557f77b97.png)
 
 ### Crear proyecto
 ----
 
-![portafolio_crear](https://user-images.githubusercontent.com/54915231/85790875-97033000-b6f6-11ea-9f15-94cedc8ff540.png)
+![127 0 0 1_8000_portafolio_crear](https://user-images.githubusercontent.com/54915231/91512567-ea852c00-e8a7-11ea-9e91-3de887ff7971.png)
 
 ### Editar
 -----
 
-![editar](https://user-images.githubusercontent.com/54915231/85790879-97033000-b6f6-11ea-9559-b9c095300223.png)
+![127 0 0 1_8000_portafolio_proyecto_3_editar](https://user-images.githubusercontent.com/54915231/91512491-bf9ad800-e8a7-11ea-9cf3-156487fcc700.png)
 
 ### Contacto
 ----
